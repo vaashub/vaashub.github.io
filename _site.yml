@@ -1,13 +1,25 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "My Website"
+  #title: "Estadística para No Estadísticos"
   left:
-    - text: "Home"
+    - text: "Inicio"
       href: index.html
-    - text: "About"
+    - text: "Sobre Nosotros"
       href: about.html
+  right:
+    - text: "Estadística para No Estadísticos"
+      href: "https://translate.google.es/"
+    
 output:
   html_document:
-    theme: united
-    highlight: textmate
+    theme: flatly
+    highlight: tango
+    #smart: ...
+    
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    
+    number_sections: true
+ 

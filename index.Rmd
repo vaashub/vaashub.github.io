@@ -2,4 +2,33 @@
 title: "Tati te amo, corazón del amor :*"
 ---
 
+# Tema 1
+
 Hello, Website!
+
+## Tema 1.1. Estadística Descriptiva
+
+La estadística descriptiva es una rama de la 
+
+
+```{r cars}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r pressure}
+plot(pressure)
+```
+
+[bla bla](about.html)
+
+## Estadística Inferencial
+
+La estadística inferencial se encarga de 
+
+# Tema 2. Machine learning
+
+Machine Learning es 
+
+[Tema 1][]
